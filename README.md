@@ -40,10 +40,8 @@ Moving items between two columns representing incomplete and complete states res
 Searching through the todo items.
 Structure
 
-App.js: Entry point of the application containing th<img width="404" alt="Снимок экрана 2023-10-17 в 23 01 04" src="https://github.com/antonhayabysa/Task-manager-for-phone/assets/83969662/2ea2f00b-029c-4e04-bdb0-da3645802c71">
-e main component.
-src/todo/Todo.js: Todo item component.
-styles.js: Stylesheet for the application.<img width="399" alt="Снимок экрана 2023-10-17 в 23 01 23" src="https://github.com/antonhayabysa/Task-manager-for-phone/assets/83969662/9ce60200-d775-4761-be74-9d4ea73a7e6b">
 
+<img width="404" alt="Снимок экрана 2023-10-17 в 23 00 56" src="https://github.com/antonhayabysa/Task-manager-for-phone/assets/83969662/028bd105-746c-40cf-945a-9004a5b4450e">
+<img width="1057" alt="Снимок экрана 2023-10-17 в 23 03 34" src="https://github.com/antonhayabysa/Task-manager-for-phone/assets/83969662/41588cfb-b740-4e2e-aef5-cc1e1a1b12d1">
+<img width="1057" alt="Снимок экрана 2023-10-17 в 23 03 11" src="https://github.com/antonhayabysa/Task-manager-for-phone/assets/83969662/1aedd9b4-beee-46b6-bd3e-0b78c10e32cc">
 
-![Uploading Снимок экрана 2023-10-17 в 23.02.01.png…]()
