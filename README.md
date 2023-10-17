@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. **Clone the repository**:
 
-git clone https://github.com/your-username/todo-app.git
+git clone 
 cd todo-app
 Install dependencies:
 
@@ -40,6 +40,10 @@ Moving items between two columns representing incomplete and complete states res
 Searching through the todo items.
 Structure
 
-App.js: Entry point of the application containing the main component.
+App.js: Entry point of the application containing th<img width="404" alt="Снимок экрана 2023-10-17 в 23 01 04" src="https://github.com/antonhayabysa/Task-manager-for-phone/assets/83969662/2ea2f00b-029c-4e04-bdb0-da3645802c71">
+e main component.
 src/todo/Todo.js: Todo item component.
-styles.js: Stylesheet for the application.
+styles.js: Stylesheet for the application.<img width="399" alt="Снимок экрана 2023-10-17 в 23 01 23" src="https://github.com/antonhayabysa/Task-manager-for-phone/assets/83969662/9ce60200-d775-4761-be74-9d4ea73a7e6b">
+
+
+![Uploading Снимок экрана 2023-10-17 в 23.02.01.png…]()
